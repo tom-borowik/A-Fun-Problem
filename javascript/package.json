@@ -1,0 +1,25 @@
+{
+  "name": "A-Fun-Problem",
+  "version": "0.0.0",
+  "description": "a silly function",
+  "main": "aFunProblem.js",
+  "dependencies": {
+    "mocha": "^2.2.5",
+    "underscore": "^1.8.3",
+    "unit.js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/aSillyTestSuite.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tom-borowik/A-Fun-Problem"
+  },
+  "author": "Tom Borowik",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/tom-borowik/A-Fun-Problem/issues"
+  },
+  "homepage": "https://github.com/tom-borowik/A-Fun-Problem"
+}
