@@ -1,0 +1,442 @@
+[{
+    "brand": "Ford",
+    "type": "Transit Connect"
+}, {
+    "brand": "Honda",
+    "type": "Pilot"
+}, {
+    "brand": "Toyota",
+    "type": "Highlander Hybrid"
+}, {
+    "brand": "Toyota",
+    "type": "Prius Plug-in"
+}, {
+    "brand": "Honda",
+    "type": "Fit"
+}, {
+    "brand": "Toyota",
+    "type": "RAV4 EV"
+}, {
+    "brand": "Toyota",
+    "type": "Land Cruiser"
+}, {
+    "brand": "Mazda",
+    "type": "Mazdaspeed 3"
+}, {
+    "brand": "Nissan",
+    "type": "Pathfinder"
+}, {
+    "brand": "Audi",
+    "type": "S8"
+}, {
+    "brand": "BMW",
+    "type": "1 Series"
+}, {
+    "brand": "BMW",
+    "type": "X3"
+}, {
+    "brand": "Mazda",
+    "type": "CX-9"
+}, {
+    "brand": "Toyota",
+    "type": "Sequoia"
+}, {
+    "brand": "Nissan",
+    "type": "Altima"
+}, {
+    "brand": "Volkswagen",
+    "type": "Jetta Hybrid"
+}, {
+    "brand": "Nissan",
+    "type": "Juke"
+}, {
+    "brand": "Volkswagen",
+    "type": "Jetta GLI"
+}, {
+    "brand": "Ford",
+    "type": "Expedition"
+}, {
+    "brand": "Volkswagen",
+    "type": "Beetle"
+}, {
+    "brand": "BMW",
+    "type": "Z4"
+}, {
+    "brand": "Audi",
+    "type": "A8"
+}, {
+    "brand": "Subaru",
+    "type": "Forester"
+}, {
+    "brand": "Volkswagen",
+    "type": "Jetta"
+}, {
+    "brand": "Honda",
+    "type": "Accord"
+}, {
+    "brand": "Honda",
+    "type": "Odyssey"
+}, {
+    "brand": "Toyota",
+    "type": "Camry"
+}, {
+    "brand": "Volkswagen",
+    "type": "Golf"
+}, {
+    "brand": "Porsche",
+    "type": "Panamera"
+}, {
+    "brand": "Nissan",
+    "type": "Murano CrossCabriolet"
+}, {
+    "brand": "Audi",
+    "type": "TT RS"
+}, {
+    "brand": "Ford",
+    "type": "Explorer"
+}, {
+    "brand": "Nissan",
+    "type": "Xterra"
+}, {
+    "brand": "Mazda",
+    "type": "5"
+}, {
+    "brand": "BMW",
+    "type": "7 Series"
+}, {
+    "brand": "BMW",
+    "type": "X1"
+}, {
+    "brand": "BMW",
+    "type": "M6"
+}, {
+    "brand": "Subaru",
+    "type": "XV Crosstrek"
+}, {
+    "brand": "Toyota",
+    "type": "Highlander"
+}, {
+    "brand": "Ford",
+    "type": "Mustang"
+}, {
+    "brand": "Ford",
+    "type": "Focus"
+}, {
+    "brand": "Nissan",
+    "type": "NV200"
+}, {
+    "brand": "Volkswagen",
+    "type": "Golf R"
+}, {
+    "brand": "Porsche",
+    "type": "Boxster"
+}, {
+    "brand": "Volkswagen",
+    "type": "Beetle Convertible"
+}, {
+    "brand": "Nissan",
+    "type": "Versa"
+}, {
+    "brand": "Ford",
+    "type": "Escape"
+}, {
+    "brand": "Porsche",
+    "type": "911"
+}, {
+    "brand": "Honda",
+    "type": "CR-Z"
+}, {
+    "brand": "Volkswagen",
+    "type": "CC"
+}, {
+    "brand": "Volkswagen",
+    "type": "Jetta SportWagen"
+}, {
+    "brand": "Volkswagen",
+    "type": "GTI"
+}, {
+    "brand": "Ford",
+    "type": "F-250 Super Duty"
+}, {
+    "brand": "Mazda",
+    "type": "3"
+}, {
+    "brand": "Toyota",
+    "type": "Tacoma"
+}, {
+    "brand": "Volkswagen",
+    "type": "Tiguan"
+}, {
+    "brand": "Ford",
+    "type": "E-Series Wagon"
+}, {
+    "brand": "Ford",
+    "type": "C-Max Hybrid"
+}, {
+    "brand": "BMW",
+    "type": "ActiveHybrid 7"
+}, {
+    "brand": "Audi",
+    "type": "A6"
+}, {
+    "brand": "Nissan",
+    "type": "GT-R"
+}, {
+    "brand": "Ford",
+    "type": "C-Max Energi"
+}, {
+    "brand": "Subaru",
+    "type": "Impreza"
+}, {
+    "brand": "Volkswagen",
+    "type": "Passat"
+}, {
+    "brand": "Honda",
+    "type": "Civic"
+}, {
+    "brand": "Toyota",
+    "type": "RAV4"
+}, {
+    "brand": "Toyota",
+    "type": "Prius c"
+}, {
+    "brand": "BMW",
+    "type": "6 Series"
+}, {
+    "brand": "BMW",
+    "type": "X5"
+}, {
+    "brand": "Toyota",
+    "type": "Prius"
+}, {
+    "brand": "Nissan",
+    "type": "Titan"
+}, {
+    "brand": "Audi",
+    "type": "A3"
+}, {
+    "brand": "Ford",
+    "type": "F-150"
+}, {
+    "brand": "Ford",
+    "type": "E-Series Van"
+}, {
+    "brand": "Ford",
+    "type": "Flex"
+}, {
+    "brand": "Toyota",
+    "type": "Camry Hybrid"
+}, {
+    "brand": "Ford",
+    "type": "F-450 Super Duty"
+}, {
+    "brand": "Ford",
+    "type": "Shelby GT500"
+}, {
+    "brand": "Nissan",
+    "type": "NV"
+}, {
+    "brand": "BMW",
+    "type": "M3"
+}, {
+    "brand": "Subaru",
+    "type": "BRZ"
+}, {
+    "brand": "Toyota",
+    "type": "Venza"
+}, {
+    "brand": "Toyota",
+    "type": "Prius v"
+}, {
+    "brand": "Mazda",
+    "type": "CX-5"
+}, {
+    "brand": "Toyota",
+    "type": "Corolla"
+}, {
+    "brand": "Mazda",
+    "type": "6"
+}, {
+    "brand": "Nissan",
+    "type": "Rogue"
+}, {
+    "brand": "Audi",
+    "type": "S5"
+}, {
+    "brand": "Nissan",
+    "type": "Murano"
+}, {
+    "brand": "Honda",
+    "type": "Insight"
+}, {
+    "brand": "Ford",
+    "type": "Fiesta"
+}, {
+    "brand": "Subaru",
+    "type": "Tribeca"
+}, {
+    "brand": "Toyota",
+    "type": "FJ Cruiser"
+}, {
+    "brand": "BMW",
+    "type": "6 Series Gran Coupe"
+}, {
+    "brand": "Toyota",
+    "type": "Yaris"
+}, {
+    "brand": "Audi",
+    "type": "TTS"
+}, {
+    "brand": "Subaru",
+    "type": "Impreza WRX"
+}, {
+    "brand": "Audi",
+    "type": "A4"
+}, {
+    "brand": "Audi",
+    "type": "S6"
+}, {
+    "brand": "Toyota",
+    "type": "Avalon Hybrid"
+}, {
+    "brand": "Ford",
+    "type": "Fusion Energi"
+}, {
+    "brand": "Nissan",
+    "type": "Armada"
+}, {
+    "brand": "BMW",
+    "type": "X6 M"
+}, {
+    "brand": "Ford",
+    "type": "Fusion Hybrid"
+}, {
+    "brand": "Audi",
+    "type": "TT"
+}, {
+    "brand": "Ford",
+    "type": "Taurus"
+}, {
+    "brand": "Nissan",
+    "type": "NV Passenger"
+}, {
+    "brand": "Toyota",
+    "type": "Tundra"
+}, {
+    "brand": "Ford",
+    "type": "Fusion"
+}, {
+    "brand": "Subaru",
+    "type": "Outback"
+}, {
+    "brand": "Nissan",
+    "type": "Cube"
+}, {
+    "brand": "Mazda",
+    "type": "MX-5 Miata"
+}, {
+    "brand": "Toyota",
+    "type": "4Runner"
+}, {
+    "brand": "Audi",
+    "type": "A7"
+}, {
+    "brand": "BMW",
+    "type": "M5"
+}, {
+    "brand": "BMW",
+    "type": "3 Series"
+}, {
+    "brand": "Toyota",
+    "type": "Sienna"
+}, {
+    "brand": "Nissan",
+    "type": "Leaf"
+}, {
+    "brand": "Nissan",
+    "type": "370Z"
+}, {
+    "brand": "Mazda",
+    "type": "2"
+}, {
+    "brand": "Audi",
+    "type": "Q5"
+}, {
+    "brand": "Audi",
+    "type": "Q7"
+}, {
+    "brand": "Honda",
+    "type": "CR-V"
+}, {
+    "brand": "Audi",
+    "type": "RS 5"
+}, {
+    "brand": "Audi",
+    "type": "S4"
+}, {
+    "brand": "Porsche",
+    "type": "Cayenne"
+}, {
+    "brand": "BMW",
+    "type": "X5 M"
+}, {
+    "brand": "Nissan",
+    "type": "Maxima"
+}, {
+    "brand": "Honda",
+    "type": "Ridgeline"
+}, {
+    "brand": "BMW",
+    "type": "5 Series"
+}, {
+    "brand": "Volkswagen",
+    "type": "Eos"
+}, {
+    "brand": "Honda",
+    "type": "Fit EV"
+}, {
+    "brand": "Nissan",
+    "type": "Frontier"
+}, {
+    "brand": "Nissan",
+    "type": "Quest"
+}, {
+    "brand": "Audi",
+    "type": "A5"
+}, {
+    "brand": "Ford",
+    "type": "Focus ST"
+}, {
+    "brand": "Ford",
+    "type": "Edge"
+}, {
+    "brand": "Honda",
+    "type": "Crosstour"
+}, {
+    "brand": "Subaru",
+    "type": "Legacy"
+}, {
+    "brand": "Volkswagen",
+    "type": "Touareg"
+}, {
+    "brand": "Toyota",
+    "type": "Avalon"
+}, {
+    "brand": "Audi",
+    "type": "S7"
+}, {
+    "brand": "Nissan",
+    "type": "Sentra"
+}, {
+    "brand": "Toyota",
+    "type": "Matrix"
+}, {
+    "brand": "BMW",
+    "type": "5 Series Gran Turismo"
+}, {
+    "brand": "BMW",
+    "type": "X6"
+}, {
+    "brand": "Ford",
+    "type": "F-350 Super Duty"
+}]
