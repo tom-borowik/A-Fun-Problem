@@ -1,6 +1,6 @@
 {
   "name": "A-Fun-Problem",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "a silly function",
   "main": "aFunProblem.js",
   "dependencies": {
